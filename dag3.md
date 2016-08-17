@@ -20,7 +20,7 @@
 # Thijs Schouten
 [Cholerakaart](https://archief.amsterdam/presentaties/amsterdamse_schatten/dood/cholerakaart/.1P7V3M.jpeg)   
 [Afstudeerpresentatie](http://thijsschouten.github.io)   
-[Verslag der AmsterdamSche Cholera Commissie 1866](https://books.google.nl/books?id=6lVkAAAAcAAJ&dq=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&hl=nl&pg=PR3#v=onepage&q=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&f=false)
+[Verslag der Amsterdamsche Cholera Commissie 1866](https://books.google.nl/books?id=6lVkAAAAcAAJ&dq=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&hl=nl&pg=PR3#v=onepage&q=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&f=false)   
 [Buurtkaarten](http://beeldbank.amsterdam.nl/beeldbank/weergave/record/?id=B00000030058)   
 [potrace](http://potrace.sourceforge.net/)   
 [Kolerekaart](http://www.kolerekaart.nl/)    
