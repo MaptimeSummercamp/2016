@@ -1,6 +1,7 @@
 # Bert Spaan - NYC Space/Time Directory
 [NYC Space/Time Directory](http://spacetime.nypl.org/)   
 [NYPL op GitHub](https://github.com/NYPL)   
+[Maps Camp 2016](https://www.mapscamp.io)
 [Slides](http://bertspaan.nl/nypl-talks/maps-camp/#0)   
 [NYPL Digital Collections](http://digitalcollections.nypl.org/)   
 [Map Warper](http://maps.nypl.org/warper)   
@@ -13,16 +14,19 @@
 [The Green Book Trip Planner] (http://publicdomain.nypl.org/greenbook-map/trip.html)   
 [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)   
 [CRF Classify](https://github.com/nypl-spacetime/crf-classify)   
+[Neo4j](http://www.neo4j.com)   
+[Heroku](https://www.heroku.com/)   
 
 # Thijs Schouten
-https://archief.amsterdam/presentaties/amsterdamse_schatten/dood/cholerakaart/.1P7V3M.jpeg   
+[Cholerakaart](https://archief.amsterdam/presentaties/amsterdamse_schatten/dood/cholerakaart/.1P7V3M.jpeg)   
 [Afstudeerpresentatie](http://thijsschouten.github.io)   
 [Verslag der AmsterdamSche Cholera Commissie 1866](https://books.google.nl/books?id=6lVkAAAAcAAJ&dq=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&hl=nl&pg=PR3#v=onepage&q=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&f=false)
 [Buurtkaarten](http://beeldbank.amsterdam.nl/beeldbank/weergave/record/?id=B00000030058)   
 [potrace](http://potrace.sourceforge.net/)   
 [Kolerekaart](http://www.kolerekaart.nl/)    
+[Infographic Bosma Grafiek](http://www.bosmagrafiek.nl/portfolio/Infographics/02_Bosatlas_BvGesch_p352/index.html)
 
 # OpenTopo
 [OpenTopo-kaarten hulpdiensten Fysieke Veiligheid nu op PDOK](https://www.pdok.nl/nl/actueel/nieuws/artikel/17aug16-opentopo-kaarten-hulpdiensten-fysieke-veiligheid-nu-op-pdok)   
 [MetaSearch plugin voor QGIS](http://www.qgis.nl/2014/02/19/het-nationaal-georegister-bevragen-en-services-laden-in-qgis-met-metasearch/)   
-PDOK plugin repository](https://github.com/rduivenvoorde/pdokservicesplugin)   
+[PDOK plugin repository](https://github.com/rduivenvoorde/pdokservicesplugin)   
