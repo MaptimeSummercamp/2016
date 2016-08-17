@@ -13,5 +13,16 @@
 [The Green Book Trip Planner] (http://publicdomain.nypl.org/greenbook-map/trip.html)   
 [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)   
 [CRF Classify](https://github.com/nypl-spacetime/crf-classify)   
-[Kolerekaart](http://www.kolerekaart.nl/)
 
+# Thijs Schouten
+https://archief.amsterdam/presentaties/amsterdamse_schatten/dood/cholerakaart/.1P7V3M.jpeg   
+[Afstudeerpresentatie](http://thijsschouten.github.io)   
+[Verslag der AmsterdamSche Cholera Commissie 1866](https://books.google.nl/books?id=6lVkAAAAcAAJ&dq=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&hl=nl&pg=PR3#v=onepage&q=verslag%20der%20Amsterdamsche%20Cholera%20Commissie%201866&f=false)
+[Buurtkaarten](http://beeldbank.amsterdam.nl/beeldbank/weergave/record/?id=B00000030058)   
+[potrace](http://potrace.sourceforge.net/)   
+[Kolerekaart](http://www.kolerekaart.nl/)    
+
+# OpenTopo
+[OpenTopo-kaarten hulpdiensten Fysieke Veiligheid nu op PDOK](https://www.pdok.nl/nl/actueel/nieuws/artikel/17aug16-opentopo-kaarten-hulpdiensten-fysieke-veiligheid-nu-op-pdok)   
+[MetaSearch plugin voor QGIS](http://www.qgis.nl/2014/02/19/het-nationaal-georegister-bevragen-en-services-laden-in-qgis-met-metasearch/)   
+PDOK plugin repository](https://github.com/rduivenvoorde/pdokservicesplugin)   
