@@ -6,7 +6,7 @@
 [NYPL Digital Collections](http://digitalcollections.nypl.org/)   
 [Map Warper](http://maps.nypl.org/warper)   
 [Building Inspector](http://buildinginspector.nypl.org/)   
-[Street View, Then & Now: New York City's Fifth Avenue](http://publicdomain.nypl.org/fifth-avenue/)
+[Street View, Then & Now: New York City's Fifth Avenue](http://publicdomain.nypl.org/fifth-avenue/)   
 [OldNYC](http://www.oldnyc.org/)   
 [Map Spy Viewer](http://maps.nls.uk/projects/layer-spy/index.html)   
 [Maps by Decade](http://spacetime.nypl.org/maps-by-decade/#/)      
