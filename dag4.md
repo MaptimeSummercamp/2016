@@ -24,13 +24,15 @@
 [Voorbeeldaanroep open data API CBS](http://opendata.cbs.nl/ODataFeed/odata/82931ned/TypedDataSet?$top=5&$filter=(ID%20eq%201))   
 
 # Barend Köbben - D3
+[Slides van Barend](https://kartoweb.itc.nl/courses/D3exercise/D3_CartographyFromCode_short.pdf)    
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
+[Site for HTML5 and D3 experiments, tests and examples](http://kartoweb.itc.nl/d3tests/)   
 [D3 homepage](https://d3js.org/)   
 [Interactive Data Visualization - Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)   
 [ColorBrewer](http://colorbrewer2.org)   
 [Colorgorical](http://vrl.cs.brown.edu/color)   
 [Perceived distances 1977-1981 and 2013](http://kartoweb.itc.nl/d3tests/distancePerception/index_en.html)   
-[Site for HTML5 and D3 experiments, tests and examples](http://kartoweb.itc.nl/d3tests/)
+[Voorbeeld Wetenschappelijke Atlas Nederland](http://geoserver.itc.nl/NatAtlas/NatAtlasViewer/)   
 
 # Ellen Gehring - Erfgoed Leiden
 [Datasets Erfgoed Leiden in Nationaal Georegister](http://tinyurl.com/gohsmkc)   
