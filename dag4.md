@@ -21,7 +21,7 @@
 [Adjust widgets in LocalFocus to a user's geolocation](http://developers.localfocus.nl/examples/geomodule.html)   
 [Open data CBS](http://opendata.cbs.nl)    
 [Open data API CBS](https://www.cbs.nl/odata/v1/$metadata)   
-[Voorbeeldaanroep open data API CBS](view-source:http://opendata.cbs.nl/ODataFeed/odata/82931ned/TypedDataSet?$top=5&$filter=(ID%20eq%201))   
+[Voorbeeldaanroep open data API CBS](http://opendata.cbs.nl/ODataFeed/odata/82931ned/TypedDataSet?$top=5&$filter=(ID%20eq%201))   
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
@@ -31,6 +31,9 @@
 
 # Ellen Gehring - Erfgoed Leiden
 [Datasets Erfgoed Leiden in Nationaal Georegister](http://tinyurl.com/gohsmkc)   
+
+# OpenStreetMap
+[OpenRouteService](http://www.openrouteservice.org)
 
 # Internet der Dingen
 [Sensebox](https://www.sensebox.de/)
