@@ -1,7 +1,7 @@
 # Bert Spaan - NYC Space/Time Directory
 [NYC Space/Time Directory](http://spacetime.nypl.org/)   
 [NYPL op GitHub](https://github.com/NYPL)   
-[Maps Camp 2016](https://www.mapscamp.io)
+[Maps Camp 2016](https://www.mapscamp.io)   
 [Slides](http://bertspaan.nl/nypl-talks/maps-camp/#0)   
 [NYPL Digital Collections](http://digitalcollections.nypl.org/)   
 [Map Warper](http://maps.nypl.org/warper)   
