@@ -6,18 +6,19 @@
 [Mapbox](https://www.mapbox.com/)   
 [Nominatim](http://nominatim.openstreetmap.org/)   
 [Nominatim wiki pagina](http://wiki.openstreetmap.org/wiki/Nominatim)  
+[LocalFocus Widget API](https://developers.localfocus.nl/)  
 [GitHub repository LocalFocus API](https://github.com/ErikWillems/localfocusapi)   
 [Mapshaper](http://mapshaper.org/)   
 [MapCreator](https://www.mapcreator.eu/)   
 [LocalFocus Geocoder beta](http://geocode.localfocus.nl/)   
 [PDOK BAG Geocoder](https://plugins.qgis.org/plugins/pdokbaggeocoder/)   
 [GitHub repository PDOK BAG Geocoder](https://github.com/Lytrix/pdokbaggeocoder)     
-[geobatch](https://www.npmjs.com/package/geobatch)
+[geobatch](https://www.npmjs.com/package/geobatch)  
 [Maarten Lambrechts](https://twitter.com/maartenzam)   
 [Tabula](http://tabula.technology/)   
 [OpenRefine](http://tabula.technology/)   
-[LocalFocus Widget API](https://developers.localfocus.nl/)   
 [Overzicht met links van Jelle](https://docs.google.com/document/d/1iVqhDrJZBh3udUj6-hjYxnLiKQ3FrZqXvnWIi6Mpp_4/edit?pref=2&pli=1)   
+(Adjust widgets in LocalFocus to a user's geolocation)[http://developers.localfocus.nl/examples/geomodule.html]
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
