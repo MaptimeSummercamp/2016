@@ -1,8 +1,12 @@
 # Jelle Kamsma - LocalFocus
 [LocalFocus](https://www.localfocus.nl/nl/)   
 [Open data CBR](https://www.cbr.nl/opendata.pp)   
-[Deelnemersfinder](http://www.nocnsf.nl/deelnemersfinder)   
+[Deelnemersfinder NOC/NSF](http://www.nocnsf.nl/deelnemersfinder)   
 [Gemeentegeschiedenis.nl](http://www.gemeentegeschiedenis.nl/)   
+[Mapbox](https://www.mapbox.com/)   
+[Nominatim](http://nominatim.openstreetmap.org/)   
+[Nominatim wiki pagina](http://wiki.openstreetmap.org/wiki/Nominatim)   
+[GitHub repository LocalFocus API](https://github.com/ErikWillems/localfocusapi)   
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
