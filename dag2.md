@@ -27,6 +27,7 @@
 [Verzoek indienen voor BAG update straat of wijk in OpenStreetMap](http://forum.openstreetmap.org/viewtopic.php?id=52973)   
 [Uitleg over het actualiseren van BAG-gegevens in OpenStreetMap](http://forum.openstreetmap.org/viewtopic.php?pid=604357#p604357)   
 [Uitleg over wat een relation in OpenStreetMap is](http://forum.openstreetmap.org/viewtopic.php?id=55488)   
+[Overzicht met API's voor OpenStreetMap](http://wiki.openstreetmap.org/wiki/Databases_and_data_access_APIs)   
 
 ## Tyler Bird - Carto
 [Carto](http://www.carto.com)   

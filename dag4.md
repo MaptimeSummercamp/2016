@@ -5,7 +5,7 @@
 [Gemeentegeschiedenis.nl](http://www.gemeentegeschiedenis.nl/)   
 [Mapbox](https://www.mapbox.com/)   
 [Nominatim](http://nominatim.openstreetmap.org/)   
-[Nominatim wiki pagina](http://wiki.openstreetmap.org/wiki/Nominatim)   
+[Nominatim wiki pagina](http://wiki.openstreetmap.org/wiki/Nominatim)  
 [GitHub repository LocalFocus API](https://github.com/ErikWillems/localfocusapi)   
 
 # Barend Köbben - D3
