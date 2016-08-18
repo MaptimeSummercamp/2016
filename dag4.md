@@ -18,11 +18,19 @@
 [Tabula](http://tabula.technology/)   
 [OpenRefine](http://tabula.technology/)   
 [Overzicht met links van Jelle](https://docs.google.com/document/d/1iVqhDrJZBh3udUj6-hjYxnLiKQ3FrZqXvnWIi6Mpp_4/edit?pref=2&pli=1)   
-[]Adjust widgets in LocalFocus to a user's geolocation](http://developers.localfocus.nl/examples/geomodule.html)
+[Adjust widgets in LocalFocus to a user's geolocation](http://developers.localfocus.nl/examples/geomodule.html)   
+[Open data CBS](http://opendata.cbs.nl)    
+[Open data API CBS](https://www.cbs.nl/odata/v1/$metadata)   
+[Voorbeeldaanroep open data API CBS](view-source:http://opendata.cbs.nl/ODataFeed/odata/82931ned/TypedDataSet?$top=5&$filter=(ID%20eq%201))   
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
 [Interactive Data Visualization - Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)   
+[ColorBrewer](http://colorbrewer2.org)   
+[Colorgorical](http://vrl.cs.brown.edu/color)   
 
 # Ellen Gehring - Erfgoed Leiden
 [Datasets Erfgoed Leiden in Nationaal Georegister](http://tinyurl.com/gohsmkc)   
+
+# Internet der Dingen
+[Sensebox](https://www.sensebox.de/)
