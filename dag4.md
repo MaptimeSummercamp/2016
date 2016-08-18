@@ -48,6 +48,6 @@
 
 
 # BAG en Verbetering geocodeerservice
-Binnenkort in dit theater ;-)
+Binnenkort in dit theater ;-)   
 [https://www.digitaleoverheid.nl/onderwerpen/voortgang-en-planning/releasekalender/bouwsteen/basisregistraties-adressen-en-gebouwen-bag]
 (https://www.digitaleoverheid.nl/onderwerpen/voortgang-en-planning/releasekalender/bouwsteen/basisregistraties-adressen-en-gebouwen-bag)
