@@ -18,7 +18,7 @@
 [Tabula](http://tabula.technology/)   
 [OpenRefine](http://tabula.technology/)   
 [Overzicht met links van Jelle](https://docs.google.com/document/d/1iVqhDrJZBh3udUj6-hjYxnLiKQ3FrZqXvnWIi6Mpp_4/edit?pref=2&pli=1)   
-(Adjust widgets in LocalFocus to a user's geolocation)[http://developers.localfocus.nl/examples/geomodule.html]
+[]Adjust widgets in LocalFocus to a user's geolocation](http://developers.localfocus.nl/examples/geomodule.html)
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
