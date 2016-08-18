@@ -29,7 +29,7 @@
 # OpenTopo
 [OpenTopo-kaarten hulpdiensten Fysieke Veiligheid nu op PDOK](https://www.pdok.nl/nl/actueel/nieuws/artikel/17aug16-opentopo-kaarten-hulpdiensten-fysieke-veiligheid-nu-op-pdok)   
 [MetaSearch plugin voor QGIS](http://www.qgis.nl/2014/02/19/het-nationaal-georegister-bevragen-en-services-laden-in-qgis-met-metasearch/)   
-[PDOK plugin repository](https://github.com/rduivenvoorde/pdokservicesplugin)   
+[PDOK plugin GitHub repository](https://github.com/rduivenvoorde/pdokservicesplugin)   
 
 # Wandelroutes in OpenStreetMap
 [WikiProject Nederland Wandelroutes](http://wiki.openstreetmap.org/wiki/WikiProject_Nederland_Wandelroutes)
