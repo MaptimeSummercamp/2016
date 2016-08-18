@@ -25,9 +25,12 @@
 
 # Barend Köbben - D3
 [D3 oefeningen van Barend](https://kartoweb.itc.nl/courses/D3exercise/index.html)   
+[D3 homepage](https://d3js.org/)   
 [Interactive Data Visualization - Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)   
 [ColorBrewer](http://colorbrewer2.org)   
 [Colorgorical](http://vrl.cs.brown.edu/color)   
+[Perceived distances 1977-1981 and 2013](http://kartoweb.itc.nl/d3tests/distancePerception/index_en.html)   
+[Site for HTML5 and D3 experiments, tests and examples](http://kartoweb.itc.nl/d3tests/)
 
 # Ellen Gehring - Erfgoed Leiden
 [Datasets Erfgoed Leiden in Nationaal Georegister](http://tinyurl.com/gohsmkc)   
@@ -36,4 +39,5 @@
 [OpenRouteService](http://www.openrouteservice.org)
 
 # Internet der Dingen
-[Sensebox](https://www.sensebox.de/)
+[Sensebox](https://www.sensebox.de/)   
+[The Things Network](https://www.thethingsnetwork.org/)   
