@@ -33,6 +33,8 @@
 [Colorgorical](http://vrl.cs.brown.edu/color)   
 [Perceived distances 1977-1981 and 2013](http://kartoweb.itc.nl/d3tests/distancePerception/index_en.html)   
 [Voorbeeld Wetenschappelijke Atlas Nederland](http://geoserver.itc.nl/NatAtlas/NatAtlasViewer/)   
+[About Gists](https://help.github.com/articles/about-gists/)   
+[bl.ocks.org](http://bl.ocks.org)   
 
 # Ellen Gehring - Erfgoed Leiden
 [Datasets Erfgoed Leiden in Nationaal Georegister](http://tinyurl.com/gohsmkc)   
