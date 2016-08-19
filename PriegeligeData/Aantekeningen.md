@@ -105,3 +105,12 @@ Bijvoorbeeld de middenlijn van de rivier de Rijn, de lijnen van de infrastructuu
 Voor je het weet gaat de fietsroute door het water ;-)
 Wat zijn de mogelijkheden om sommige lijnen automatisch te laten verschuiven?
 
+
+### 20*
+Aan objecten kun je schaduw toevoegen. In QGIS kan dit heel eenvoudig, bij de stijl van de laag:
+- Eigenschappen / stijl 
+- Onderaan een deel Rendering. Hierin zit Tekeneffecten, daar kun je gloed/schaduw etc aangeven
+ 
+
+### 21*
+Je kaart moet natuurlijk ook weer kopie-veilig en kleurenblindlogisch zijn. In QGIS is dit heel makkelijk te checken, zowel in de printmodus als de werkmodus: Beeld / Modus voorvertoning
