@@ -18,8 +18,9 @@
 [WikiProject Nederland Wandelroutes](http://wiki.openstreetmap.org/wiki/WikiProject_Nederland_Wandelroutes)   
 [WikiProject Europe/Long distance paths](http://wiki.openstreetmap.org/wiki/WikiProject_Europe/Long-distance_paths)   
 [Wandelroute E11 in OpenStreetMap](http://hiking.waymarkedtrails.org/en/relation/1175710)   
-[Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)  
-[Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)   
+[Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)   
+[Why didn't my GPX file upload properly?](http://wiki.openstreetmap.org/wiki/GPX#Why_didn.27t_my_GPX_file_upload_properly.3F)     
+[Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData) 
 
 # FME Desktop
 Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. Maptime Summercamp   
