@@ -19,11 +19,13 @@
 [WikiProject Europe/Long distance paths](http://wiki.openstreetmap.org/wiki/WikiProject_Europe/Long-distance_paths)   
 [Wandelroute E11 in OpenStreetMap](http://hiking.waymarkedtrails.org/en/relation/1175710)   
 [Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)  
-[]Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)   
+[Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)   
 
 # FME Desktop
-Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. MKaptime Summercamp
-[Safe Software](http://www.safe.com)
+Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. MKaptime Summercamp   
+[Safe Software](http://www.safe.com)   
+[FME Desktop 2016 Basic Training Course)](http://www.safe.com/training/recorded/fme-desktop-2016/)   
+FME workspaces van [Willy](https://github.com/FrieseWoudloper/FME_workspaces) en [Provincie Groningen](https://github.com/ProvincieGroningen/FME)    
 
 # PostGIS
 [Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)   
