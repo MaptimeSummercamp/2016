@@ -21,3 +21,7 @@
 
 # PostGIS
 [Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)
+DBmanager
+
+# Leuke linkjes :-)
+[Olympic Races, in Your Neighbourhood](http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html?_r=0)
