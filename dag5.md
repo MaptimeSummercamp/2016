@@ -5,3 +5,19 @@
 [OpenStreetMapData](http://openstreetmapdata.com/)   
 [Natural Earth](www.naturalearthdata.com)   
 [Stamen watercolor](http://maps.stamen.com/watercolor/#12/37.7706/-122.3782)   
+[GRID Grafisch Museum Groningen](http://www.gridgroningen.nl/)   
+[Riscokaart](http://www.risicokaart.nl/)   
+[Colour blindness and grey scale preview in QGIS](http://nyalldawson.net/2014/05/colour-blindness-and-grayscale-previews-in-qgis-2-4/)   
+[Colblindor](http://color-blindness.com)   
+[Cartographic representation in ArcGIS Desktop](http://help.arcgis.com/en/arcgisdesktop/10.0/pdf/cartographic-representations-tutorial.pdf)   
+
+# Wandelroute E11
+[Wandelroute E11 in Wikipedia](https://nl.wikipedia.org/wiki/Wandelroute_E11)   
+[toGeoJSON](https://mapbox.github.io/togeojson/)   
+[WikiProject Nederland Wandelroutes](http://wiki.openstreetmap.org/wiki/WikiProject_Nederland_Wandelroutes)   
+[WikiProject Europe/Long distance paths](http://wiki.openstreetmap.org/wiki/WikiProject_Europe/Long-distance_paths)   
+[Wandelroute E11 in OpenStreetMap](http://hiking.waymarkedtrails.org/en/relation/1175710)   
+[Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)   
+
+# PostGIS
+[Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)
