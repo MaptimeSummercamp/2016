@@ -11,6 +11,7 @@
 [Colblindor](http://color-blindness.com)   
 [Cartographic representation in ArcGIS Desktop](http://help.arcgis.com/en/arcgisdesktop/10.0/pdf/cartographic-representations-tutorial.pdf)   
 [Elegante algoritmes](https://www.ionica.nl/elegante-algoritmes-bij-pauw-witteman/)   
+[Introducing QGIS Live Layer Effects](http://nyalldawson.net/2015/04/introducing-qgis-live-layer-effects/)    
 
 # Wandelroute E11
 [Wandelroute E11 in Wikipedia](https://nl.wikipedia.org/wiki/Wandelroute_E11)   
