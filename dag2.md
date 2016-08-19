@@ -24,6 +24,7 @@
 ## Willy Bakker - Overpass API
 [Workshop Overpass API](https://github.com/FrieseWoudloper/workshop-maptime2016-overpass/blob/master/README.md)  
 [IJsbanen in Groningen](https://friesewoudloper.wordpress.com/2014/01/)   
+[KansOpVorst.nl](http://kansopvorst.nl/)    
 [Verzoek indienen voor BAG update straat of wijk in OpenStreetMap](http://forum.openstreetmap.org/viewtopic.php?id=52973)   
 [Uitleg over het actualiseren van BAG-gegevens in OpenStreetMap](http://forum.openstreetmap.org/viewtopic.php?pid=604357#p604357)   
 [Uitleg over wat een relation in OpenStreetMap is](http://forum.openstreetmap.org/viewtopic.php?id=55488)   
