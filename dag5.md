@@ -10,6 +10,7 @@
 [Colour blindness and grey scale preview in QGIS](http://nyalldawson.net/2014/05/colour-blindness-and-grayscale-previews-in-qgis-2-4/)   
 [Colblindor](http://color-blindness.com)   
 [Cartographic representation in ArcGIS Desktop](http://help.arcgis.com/en/arcgisdesktop/10.0/pdf/cartographic-representations-tutorial.pdf)   
+[Elegante algoritmes](https://www.ionica.nl/elegante-algoritmes-bij-pauw-witteman/)   
 
 # Wandelroute E11
 [Wandelroute E11 in Wikipedia](https://nl.wikipedia.org/wiki/Wandelroute_E11)   
@@ -20,8 +21,10 @@
 [Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)   
 
 # PostGIS
-[Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)
-DBmanager
+[Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)   
+[DB Manager](http://docs.qgis.org/2.0/nl/docs/training_manual/databases/db_manager.html)   
 
 # Leuke linkjes :-)
-[Olympic Races, in Your Neighbourhood](http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html?_r=0)
+[Olympic Races, in Your Neighbourhood](http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html?_r=0)   
+[Wakawaka](http://nl.waka-waka.com/)   
+[MapTab: A Chrome extension for viewing beautiful maps](https://www.mapbox.com/blog/introducing-maptab/)   
