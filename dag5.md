@@ -22,9 +22,9 @@
 [Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)   
 
 # FME Desktop
-Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. MKaptime Summercamp   
+Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. Maptime Summercamp   
 [Safe Software](http://www.safe.com)   
-[FME Desktop 2016 Basic Training Course)](http://www.safe.com/training/recorded/fme-desktop-2016/)   
+[FME Desktop 2016 Basic Training Course](http://www.safe.com/training/recorded/fme-desktop-2016/)   
 FME workspaces van [Willy](https://github.com/FrieseWoudloper/FME_workspaces) en [Provincie Groningen](https://github.com/ProvincieGroningen/FME)    
 
 # PostGIS
