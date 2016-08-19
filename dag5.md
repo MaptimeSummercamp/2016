@@ -18,7 +18,12 @@
 [WikiProject Nederland Wandelroutes](http://wiki.openstreetmap.org/wiki/WikiProject_Nederland_Wandelroutes)   
 [WikiProject Europe/Long distance paths](http://wiki.openstreetmap.org/wiki/WikiProject_Europe/Long-distance_paths)   
 [Wandelroute E11 in OpenStreetMap](http://hiking.waymarkedtrails.org/en/relation/1175710)   
-[Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)   
+[Query wandelroute E11 in Overpass Turbo](http://overpass-turbo.eu/s/hW0)  
+[]Open Data plugin voor JOSM](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpenData)   
+
+# FME Desktop
+Stuur voor een trial-licentie een mail naar helpdesk@vicrea.nl o.v.v. MKaptime Summercamp
+[Safe Software](http://www.safe.com)
 
 # PostGIS
 [Download PostgreSQL](http://www.enterprisedb.com/products-services-training/pgdownload)   
