@@ -40,7 +40,7 @@ github.com/MaptimeSummercamp
 
 ### GoogleDrive    
 in 2015 wel gebruikt voor „GISsummercamp”, maar in 2016 nvt.    
-drive.google.com/folderview?id=0B_9eaiDzVWsefnFTMHVRUDBQUkJ3d0R5aVBpZVNCOG1HZVp6azBGeFRwc2RpMEkxMWZKSUE&usp=sharing
+https://www.drive.google.com/folderview?id=0B_9eaiDzVWsefnFTMHVRUDBQUkJ3d0R5aVBpZVNCOG1HZVp6azBGeFRwc2RpMEkxMWZKSUE&usp=sharing
 
 
 ### Dropbox    
