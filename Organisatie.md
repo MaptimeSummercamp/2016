@@ -3,8 +3,8 @@
 
 ## Deelnemers en sprekers   
 
-Namenlijst, aan- en afmeldingen, zie
-meetup.com/GeoForts-sideshow-diverse-activiteiten-op-het-fort/events/232395505/
+Namenlijst, aan- en afmeldingen, zie    
+http://www.meetup.com/GeoForts-sideshow-diverse-activiteiten-op-het-fort/events/232395505/
 
 ### Erik Meerburg    
 organisator; voorzitter, penningmeester en gastheer
@@ -20,14 +20,16 @@ regelaar, mede-organisator
 Ook hieronder kunnen we zelf onze namen en contactgegevens noteren, opt-in:
 
 ### Marijn Bosma   
-info@BosmaGrafiek.nl    
-twitter = @BosmaGrafiek    
+info@BosmaGrafiek.nl  
+http://www.bosmagrafiek.nl    
+twitter = @BosmaGrafiek  
+https://twitter.com/BosmaGrafiek    
 +31 6 2203 5021
 
  
 ## Locatie 2016   
-https://www.Geo-Academie.nl    
-https://www.GeoFort.nl
+http://www.Geo-Academie.nl    
+http://www.GeoFort.nl
 
 
 
@@ -40,7 +42,7 @@ https://www.github.com/MaptimeSummercamp
 
 ### GoogleDrive    
 in 2015 wel gebruikt voor „GISsummercamp”, maar in 2016 nvt.    
-https://www.drive.google.com/folderview?id=0B_9eaiDzVWsefnFTMHVRUDBQUkJ3d0R5aVBpZVNCOG1HZVp6azBGeFRwc2RpMEkxMWZKSUE&usp=sharing
+https://drive.google.com/folderview?id=0B_9eaiDzVWsefnFTMHVRUDBQUkJ3d0R5aVBpZVNCOG1HZVp6azBGeFRwc2RpMEkxMWZKSUE&usp=sharing
 
 
 ### Dropbox    
@@ -57,7 +59,8 @@ https://www.dropbox.com/s/76uqgy9qvec9pvd/Afstudeerders%20bijschakelen.odt?dl=0
 Erik: wil je daaruit nog enkele tekstfragmenten herplaatsen in deze Github-tekst?    
 Bijvoorbeeld    
 “Maptime Summercamp ( . . .) is een beetje ontstaan uit twee dingen:
-De maptime events (zie #maptime op twitter, maar ook bv http://maptime.io/
+De maptime events (zie #maptime op twitter, maar ook bv    
+http://maptime.io/    
 Het idee dat we in de zomer best een week vrij kunnen maken. ‘Vroeger’ waren werkweken cq summercamps altijd leuk, als volwassene doe je daar heel weinig aan (maar je praat nog wel vaak over hoe leuk dat vroeger was).”    
 “Het concept is een unconference.”
 4. Admin - - Untitled 1.ods = mag weg ?
@@ -65,7 +68,7 @@ Het idee dat we in de zomer best een week vrij kunnen maken. ‘Vroeger’ waren
 
 
 ### MenWhoStareAtMaps.com    
-https://www.MenWhoStareAtMaps.com     
+https://MenWhoStareAtMaps.com     
 = Wordpress blog    
 Aanvullen of opschonen?
 
@@ -78,7 +81,7 @@ https://www.meetup.com/GeoForts-sideshow-diverse-activiteiten-op-het-fort/events
 
 ### Gitter.im    
 = chat room, where developers come to talk. (Onderdeel van GitHub.)
-https://www.gitter.im/MaptimeSummercamp/MenWhoStareAtMaps
+https://gitter.im/MaptimeSummercamp/MenWhoStareAtMaps
 
 
 ### Twitter    
@@ -111,7 +114,7 @@ Onder meer bij het kampvuur!
 
 ### wiki.sha2017.org   
 In de aanloop naar Maptime Summercamp 2017 kunnen we wellicht ook terecht bij
-https://www.wiki.sha2017.org/index.php/Village:Maptime
+https://wiki.sha2017.org/index.php/Village:Maptime
 
 
 
@@ -139,7 +142,7 @@ http://www.OpenStreetMap.org
 
 ### Maptime
 
-https://www.maptime.io   
+https://maptime.io   
 
 Maptime Amsterdam
 
@@ -158,7 +161,7 @@ LinkedIn group OpenTopo gebruikers
 
 
 ### FOSS4G  
-https://www.2016.foss4g.org
+http://2016.foss4g.org
 
 
 ### OSGeo.nl
@@ -168,6 +171,6 @@ OSGeoNL-announce@meetup.com
 
 ### GeoBuzz
 “Het programma op GeoBuzz wordt dit jaar erg bijzonder. Er bestaat de mogelijkheid om vanuit diverse invalshoeken, sectoren en toepassingen een bijdrage te leveren aan het GeoBuzz 2016. Tot uiterlijk 8 september kunt u uw voorstellen indienen ( . . .)”    
-https://www.geobuzz.nl/programma/programma-mogelijkheden/
+http://geobuzz.nl/programma/programma-mogelijkheden/
 
 
