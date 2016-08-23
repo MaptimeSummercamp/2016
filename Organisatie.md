@@ -16,7 +16,6 @@ regelaar, mede-organisator
 ### Tiemen Hakvoort
 regelaar, mede-organisator
 
-
 Ook hieronder kunnen we zelf onze namen en contactgegevens noteren, opt-in:
 
 ### Marijn Bosma   
@@ -26,6 +25,8 @@ twitter = @BosmaGrafiek
 https://twitter.com/BosmaGrafiek    
 +31 6 2203 5021
 
+### Willy Bakker
+http://twitter.com/friesewoudloper
  
 ## Locatie 2016   
 http://www.Geo-Academie.nl    
@@ -88,6 +89,7 @@ https://gitter.im/MaptimeSummercamp/MenWhoStareAtMaps
 Willy Bakker @FrieseWoudloper geeft een reeks heet-van-de-naald berichtjes,    
 samen vormen die een fraai verslag.    
 https://twitter.com/FrieseWoudloper
+Hashtag: #maptimesummercamp
 
 
 ### Maptime   
