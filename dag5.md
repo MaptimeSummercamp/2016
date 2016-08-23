@@ -1,5 +1,5 @@
 # Marijn Bosma - Priegelige data
-[Toelichting van Marijn](PriegeligeData/Aantekeningen.md)   
+[Toelichting van Marijn](PriegeligeData/README.md)   
 [Europafietsers](https://www.europafietsers.nl/fietsroutes/routes-op-de-kaart-fietsweb)   
 [Leaflet](http://www.leafletjs.com/)   
 [OpenStreetMapData](http://openstreetmapdata.com/)   
