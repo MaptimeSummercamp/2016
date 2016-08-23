@@ -2,8 +2,8 @@
 [Toelichting van Marijn](PriegeligeData/README.md)   Priegelige data; hoe kan je die visualiseren in een prachtige kaart   
 [Europafietsers](https://www.europafietsers.nl/fietsroutes/routes-op-de-kaart-fietsweb)   
 [Leaflet](http://www.leafletjs.com/)   
-[OpenStreetMapData](http://openstreetmapdata.com/)   en dan met name [generalized-coastlines] (http://openstreetmapdata.com/data/generalized-coastlines)
-[Natural Earth](http://www.naturalearthdata.com)   
+[OpenStreetMapData](http://openstreetmapdata.com/)   en dan met name [generalized-coastlines] (http://openstreetmapdata.com/data/generalized-coastlines)    
+[Natural Earth](http://www.naturalearthdata.com)   Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Vector and raster data.   
 [Stamen watercolor](http://maps.stamen.com/watercolor/#12/37.7706/-122.3782)   
 [GRID Grafisch Museum Groningen](http://www.gridgroningen.nl/)   
 [Riscokaart](http://www.risicokaart.nl/)   
