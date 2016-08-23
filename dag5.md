@@ -39,4 +39,4 @@ FME workspaces van [Willy](https://github.com/FrieseWoudloper/FME_workspaces) en
 [Olympic Races, in Your Neighbourhood](http://www.nytimes.com/interactive/2016/08/18/sports/olympics/olympic-races-near-you.html?_r=0)   
 [Wakawaka](http://nl.waka-waka.com/)   
 [MapTab: A Chrome extension for viewing beautiful maps](https://www.mapbox.com/blog/introducing-maptab/)     
-[Portfolio Rinske Bosma](http://www.rinskebosma.com)   
+[Portfolio Rinske Bosma, coding cellist](http://www.rinskebosma.com)   
