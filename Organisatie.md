@@ -86,7 +86,8 @@ https://gitter.im/MaptimeSummercamp/MenWhoStareAtMaps
 
 ### Twitter    
 Willy Bakker @FrieseWoudloper geeft een reeks heet-van-de-naald berichtjes,    
-samen vormen die een fraai verslag.
+samen vormen die een fraai verslag.    
+https://twitter.com/FrieseWoudloper
 
 
 ### Maptime   
