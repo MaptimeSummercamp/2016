@@ -26,8 +26,8 @@ twitter = @BosmaGrafiek
 
  
 ## Locatie 2016   
-Geo-Academie.nl    
-GeoFort.nl
+https://www.Geo-Academie.nl    
+https://www.GeoFort.nl
 
 
 
@@ -35,7 +35,7 @@ GeoFort.nl
 
 ### Github   
 = naslagwerk, datasets, teksten en afbeeldingen, verwijzingen.    
-github.com/MaptimeSummercamp
+https://www.github.com/MaptimeSummercamp
 
 
 ### GoogleDrive    
@@ -127,11 +127,12 @@ https://www.geo-info.nl
 LinkedIn group Geo-info
 
 ### Cartodag    
+http://www.cartodag.nl    
 Elk voorjaar een Nederlandstalige congresdag, door Geo-Info Nederland (GIN).
 
 
 ### OpenStreetMap.org (OSM)   
-
+http://www.OpenStreetMap.org
 
 ### MissingMaps   
 
@@ -157,7 +158,7 @@ LinkedIn group OpenTopo gebruikers
 
 
 ### FOSS4G  
-2016.foss4g.org
+https://www.2016.foss4g.org
 
 
 ### OSGeo.nl
@@ -167,6 +168,6 @@ OSGeoNL-announce@meetup.com
 
 ### GeoBuzz
 “Het programma op GeoBuzz wordt dit jaar erg bijzonder. Er bestaat de mogelijkheid om vanuit diverse invalshoeken, sectoren en toepassingen een bijdrage te leveren aan het GeoBuzz 2016. Tot uiterlijk 8 september kunt u uw voorstellen indienen ( . . .)”    
-geobuzz.nl/programma/programma-mogelijkheden/
+https://www.geobuzz.nl/programma/programma-mogelijkheden/
 
 
