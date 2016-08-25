@@ -27,7 +27,11 @@ https://twitter.com/BosmaGrafiek
 
 ### Willy Bakker
 http://twitter.com/friesewoudloper
- 
+
+### Jonna Bosch
+https://nl.linkedin.com/in/jonnabosch
+http://twitter.com/GeoJonna
+
 ## Locatie 2016   
 http://www.Geo-Academie.nl    
 http://www.GeoFort.nl
