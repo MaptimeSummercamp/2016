@@ -29,7 +29,7 @@ https://twitter.com/BosmaGrafiek
 http://twitter.com/friesewoudloper
 
 ### Jonna Bosch
-https://nl.linkedin.com/in/jonnabosch
+https://nl.linkedin.com/in/jonnabosch    
 http://twitter.com/GeoJonna
 
 ## Locatie 2016   
